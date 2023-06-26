@@ -1,0 +1,37 @@
+{
+  "name": "blocks-trans",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "@types/node": "20.3.1",
+    "@types/react": "18.2.13",
+    "@types/react-dom": "18.2.6",
+    "@web3-react/coinbase-wallet": "^8.2.0",
+    "@web3-react/core": "^8.2.0",
+    "@web3-react/gnosis-safe": "^8.2.0",
+    "@web3-react/metamask": "^8.2.1",
+    "@web3-react/network": "^8.2.0",
+    "@web3-react/types": "^8.2.0",
+    "@web3-react/walletconnect": "^8.2.0",
+    "autoprefixer": "10.4.14",
+    "eslint": "8.43.0",
+    "eslint-config-next": "13.4.7",
+    "git": "^0.1.5",
+    "next": "13.4.7",
+    "postcss": "8.4.24",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-error-boundary": "^4.0.10",
+    "react-redux": "^8.1.1",
+    "react-router-dom": "^6.13.0",
+    "tailwindcss": "3.3.2",
+    "typescript": "5.1.3"
+  }
+}
